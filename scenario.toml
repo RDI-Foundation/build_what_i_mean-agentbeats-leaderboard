@@ -1,9 +1,9 @@
 [green_agent]
-agentbeats_id = "019d11f8-e5b0-7330-8e4e-84433f57ce9e"
+agentbeats_id = "019caf3f-5549-7731-a213-5e4ca0554cb7"
 env = { API_KEY = "${OPENAI_API_KEY}", LOG_LEVEL = "INFO" }
 
 [[participants]]
-agentbeats_id = "019d11f8-e5b0-7330-8e4e-84433f57ce9e"
+agentbeats_id = "019d1237-3965-7a23-ba68-4c15a11f5175"
 name = "rita"
 env = { OPENAI_API_KEY = "${OPENAI_API_KEY}", AGENT_MODEL = "openai/gpt-4o-mini" }
 
